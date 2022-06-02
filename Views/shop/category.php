@@ -100,7 +100,7 @@
               <div class="widget-content"><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p></div>
           </div>
           <!--end Information-->
-          <!-- Product Tags
+          <!-- Product Tags -->
           <div class="sidebar_widget">
             <div class="widget-title">
               <h2>Product Tags</h2>
@@ -136,7 +136,7 @@
                 <li><a href="#" title="Show products matching tag Oxymat">Oxymat</a></li>
               </ul>
               <span class="btn btn--small btnview">View all</span> </div>
-          </div> -->
+          </div> 
           <!--end Product Tags-->
       </div>
   </div>

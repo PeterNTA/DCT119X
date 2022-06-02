@@ -27,7 +27,7 @@
             <div class="row">
             	<div class="col-12">
                     <h2>Somethings</h2>
-                    <p>Somthings too.</p>
+                    <p>Somethings too.</p>
                     <p></p>
                 </div>
             </div>
@@ -35,10 +35,10 @@
             <div class="row">
             	<div class="col-12 col-sm-12 col-md-6 col-lg-6 mb-4">
                 	<h2 class="h2">About Shop</h2>
-                    <div class="rte-setting"><p><strong>Somthings.</strong></p>
-                    <p>Somthings too.</p>
+                    <div class="rte-setting"><p><strong>Somethings.</strong></p>
+                    <p>Somethings too.</p>
                     <p></p>
-                    <p>Somthing</p></div>
+                    <p>Something</p></div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                 	<h2 class="h2">Contact Us</h2>

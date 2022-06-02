@@ -27,7 +27,7 @@ class LoginController
         $taikhoan = $_POST['taikhoan'];
         $Matkhau = md5($_POST['matkhau']);
         if (strpos($taikhoan, "'") != false) {
-            $taikhoan = str_replace("'", "\'", $taikhoan);
+            $taikhoan = str_replace("'", "\'", $taikhoan);  
         }
         $data = array(
             'taikhoan' => $taikhoan,

@@ -6,8 +6,8 @@
         <div class="display-table-cell width40"><img src="assets/images/newsletter-img.jpg" alt="Join Our Mailing List" title="Join Our Mailing List" /> </div>
         <div class="display-table-cell width60 text-center">
           <div class="newsletter-left">
-            <h2>Join Our Mailing List</h2>
-            <p>Sign Up for our exclusive email list and be the first to know about new products and special offers</p>
+
+          <p>Sign Up for our exclusive email list and be the first to know about new products and special offers</p>
             <form action="#" method="post">
               <div class="input-group">
                 <input type="email" class="input-group__field newsletter__input" name="EMAIL" value="" placeholder="Email address" required="">

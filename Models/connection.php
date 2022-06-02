@@ -7,7 +7,7 @@
             $severname ="localhost";
             $username ="root";
             $password ="";
-            $db_name ="cnw4s";
+            $db_name ="WEB2";
 
             //Tao ket noi CSDL
             $this->conn = new mysqli($severname,$username,$password,$db_name);

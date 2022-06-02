@@ -86,7 +86,7 @@
                                         <div class="zoompro-span">
                                             <img class="blur-up lazyload zoompro" data-zoom-image="assets/<?=$data['HinhAnh1']?>" alt="" src="assets/<?=$data['HinhAnh1']?>" />
                                         </div>
-                                        <div class="product-labels"><span class="lbl on-sale">Sale</span><span class="lbl pr-label1">new</span></div>
+                                        <!-- <div class="product-labels"><span class="lbl on-sale">Sale</span><span class="lbl pr-label1">new</span></div> -->
                                         <div class="product-buttons">
                                             <a href="https://www.youtube.com/watch?v=93A2jOW5Mog" class="btn popup-video" title="View Video"><i class="icon anm anm-play-r" aria-hidden="true"></i></a>
                                             <a href="#" class="btn prlightbox" title="Zoom"><i class="icon anm anm-expand-l-arrows" aria-hidden="true"></i></a>
@@ -113,7 +113,7 @@
 
                                 </div>
                                 <!--Product Feature-->
-                                <div class="prFeatures">
+                                <!-- <div class="prFeatures">
                                     <div class="row">
                                         <div class="col-12 col-sm-12 col-md-12 col-lg-6 feature">
                                             <img src="assets/images/credit-card.png" alt="Safe Payment" title="Safe Payment" />
@@ -132,7 +132,7 @@
                                             <div class="details"><h3>Hotline</h3>Talk to help line for your question on 0705459542</div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!--End Product Feature-->
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
@@ -144,20 +144,20 @@
                                     <div class="prInfoRow">
                                         <div class="product-stock"> <span class="instock ">In Stock</span> <span class="outstock hide">Unavailable</span> </div>
                                         <div class="product-sku">SKU: <span class="variant-sku">ID<?=$data['MaSP']?></span></div>
-                                        <div class="product-review"><a class="reviewLink" href="#tab2"><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star-o"></i><i class="font-13 fa fa-star-o"></i><span class="spr-badge-caption">6 reviews</span></a></div>
+                                        <!-- <div class="product-review"><a class="reviewLink" href="#tab2"><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star"></i><i class="font-13 fa fa-star-o"></i><i class="font-13 fa fa-star-o"></i><span class="spr-badge-caption">6 reviews</span></a></div> -->
                                     </div>
                                     <p class="product-single__price product-single__price-product-template">
                                         <span class="visually-hidden">Regular price</span>
                                         <span class="product-price__price product-price__price-product-template product-price__sale product-price__sale--single">
                                             <span id="ProductPrice-product-template"><span class="money"><?=number_format($data['DonGia'])?> $</span></span>
                                         </span>
-                                        <span class="discount-badge"> <span class="devider">|</span>&nbsp;
+                                        <!-- <span class="discount-badge"> <span class="devider">|</span>&nbsp;
                                             <span>You Save</span>
                                             <span id="SaveAmount-product-template" class="product-single__save-amount">
                                             <span class="money">$100.00</span>
                                             </span>
                                             <span class="off">(<span>16</span>%)</span>
-                                        </span>
+                                        </span> -->
                                     </p>
                                 <div class="product-single__description rte">
                                     <p><?= $data['MoTa'] ?>.</p>

@@ -32,9 +32,9 @@ switch ($act) {
       require_once("wishlist/wishlist.php");
       }
       break;
-    case 'blog':
-      require_once("blog/blog.php");
-      break;
+    // case 'blog':
+    //   require_once("blog/blog.php");
+    //   break;
     case "detail":
         require_once("product-detail/product-detail.php");
         break;

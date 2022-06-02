@@ -17,7 +17,7 @@
                     <img class="hover blur-up lazyload" data-src="" src="assets/<?=$value['HinhAnh2']?>" alt="image" title="product">
                     <!-- End hover image -->
                     <!-- product label -->
-                    <div class="product-labels rectangular"><span class="lbl pr-label2">Hot</span></div>
+                    <!-- <div class="product-labels rectangular"><span class="lbl pr-label2">Hot</span></div> -->
                     <!-- End product label -->
                 </a>
                 <!-- end product image -->
@@ -58,13 +58,13 @@
                 </div>
                 <!-- End product price -->
 
-                <div class="product-review">
+                <!-- <div class="product-review">
                     <i class="font-13 fa fa-star"></i>
                     <i class="font-13 fa fa-star"></i>
                     <i class="font-13 fa fa-star"></i>
                     <i class="font-13 fa fa-star"></i>
                     <i class="font-13 fa fa-star-o"></i>
-                </div>
+                </div> -->
                 <!-- Variant -->
                 <!-- End Variant -->
             </div>
